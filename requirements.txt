@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+tensorflow
+keras
+numpy
+sentence-transformers
+snorkel
+PyPDF2
+textblob
+matplotlib

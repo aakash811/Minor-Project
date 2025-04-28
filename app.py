@@ -17,7 +17,7 @@ from main import summarize_pdf
 from utils.pdf_utils import extract_text_from_pdf
 from utils.sentiment import get_sentiment
 
-from docx import Document  # ✅ for Word file support
+from docx import Document 
 
 st.title("📄 PDF/Word/Text Summarizer with Clustering & Sentiment")
 
